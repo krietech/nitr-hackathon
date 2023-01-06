@@ -1,4 +1,3 @@
-# Author : Arnab Basak
 
 import os
 import imageio
